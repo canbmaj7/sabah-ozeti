@@ -1,0 +1,4 @@
+.env
+__pycache__/
+# Yerel proje belleği: altyapı bilgisi içerir, public repoya girmez
+memory-bank/
